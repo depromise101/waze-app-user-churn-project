@@ -1,4 +1,4 @@
-# Waze App User Churn Prediction & Retention
+# Waze App User Churn Prediction & Retention Strategy
 
 # Business Problem
 My team is close to completing a churn project. Previously, we completed a project proposal, and used Python to explore and analyze Waze’s app user data, create data visualizations, and conduct a hypothesis test. Most recently, we built a binomial logistic regression model based on multiple variables.
@@ -17,7 +17,7 @@ The purpose of this model is to find factors that drive user churn.
 🔹 1. Data Understanding & Preprocessing (pandas, numpy, sklearn)
 
 🔹 2. Modeling: Random Forest & XGBoost 
-         (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
+      (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
 
 🔹 3. Model Evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC, k-fold cross-validation or  stratified CV)
 
