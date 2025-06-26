@@ -17,7 +17,7 @@ The purpose of this model is to find factors that drive user churn.
 🔹 1. Data Understanding & Preprocessing (pandas, numpy, sklearn)
 
 🔹 2. Modeling: Random Forest & XGBoost 
-      (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
+         (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
 
 🔹 3. Model Evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC, k-fold cross-validation or  stratified CV)
 
