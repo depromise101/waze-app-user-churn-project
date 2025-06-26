@@ -16,10 +16,11 @@ The purpose of this model is to find factors that drive user churn.
 # Skills and Tools Applied
 🔹 1. Data Understanding & Preprocessing (pandas, numpy, sklearn)
 
-🔹 2. Modeling: Random Forest & XGBoost (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
+🔹 2. Modeling: Random Forest & XGBoost 
+      (bootstrapping, gradient boosting, GridSearchCV, max_depth, n_estimators, learning_rate, subsample)
 
-🔹 3. Model Evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC, k-fold cross-validation or stratified CV)
+🔹 3. Model Evaluation (Accuracy, Precision, Recall, F1 Score, ROC-AUC, k-fold cross-validation or  stratified CV)
 
-🔹 4. Interpretability & Insights (Gini, Gain, matplotlib, seaborn, SHAP plots)
+🔹 4. Interpretability & Insights (Gini, Gain, matplotlib, seaborn)
 
-🔹 5. Visualization & Communication (matplotlib/seaborn/SHAP)
+🔹 5. Visualization & Communication (matplotlib/seaborn)
